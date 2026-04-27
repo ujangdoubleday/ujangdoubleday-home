@@ -16,7 +16,7 @@ export const metadata: Metadata = {
   title: 'Ilham Alfath | Web Developer',
   description:
     'Portfolio of Ilham Alfath — Web developer passionate about crafting modern, elegant digital experiences with cutting-edge technologies.',
-  authors: [{ name: 'Ilham Alfath', url: 'https://xpqx.xyz' }],
+  authors: [{ name: 'Ilham Alfath', url: 'https://ujangdoubleday.id' }],
   keywords: [
     'Ilham Alfath',
     'web developer',
@@ -30,7 +30,7 @@ export const metadata: Metadata = {
     title: 'Ilham Alfath | Web Developer',
     description:
       'Portfolio of Ilham Alfath — Web developer passionate about crafting modern, elegant digital experiences.',
-    url: 'https://xpqx.xyz',
+    url: 'https://ujangdoubleday.id',
     siteName: 'Ilham Alfath Portfolio',
     locale: 'en_US',
     type: 'website',
