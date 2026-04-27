@@ -17,7 +17,7 @@ const skillCategories = [
   {
     name: 'Frontend',
     icon: '🖥️',
-    skills: ['React.js', 'Next.js', 'Vue.js', 'Tailwind CSS', 'ShadcnUI'],
+    skills: ['React.js', 'Next.js', 'Vue.js', 'jQuery', 'Tailwind CSS', 'ShadcnUI'],
   },
   {
     name: 'Backend & DB',

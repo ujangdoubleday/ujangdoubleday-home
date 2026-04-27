@@ -34,7 +34,7 @@ export default function ContactWindow({
           <div className="flex items-center gap-2 mb-2 text-base md:text-sm">
             <label className="w-16 md:w-12 font-bold">To:</label>
             <div className="win98-inset flex-1 px-3 py-2 md:px-2 md:py-1 bg-white">
-              ilham28alfath@gmail.com
+              hello@ujangdoubleday.id
             </div>
           </div>
           <div className="flex items-center gap-2 text-base md:text-sm">
@@ -52,10 +52,10 @@ export default function ContactWindow({
           <p className="mb-3 font-bold text-base md:text-sm">📇 Contact Information:</p>
           <div className="flex flex-col gap-3 md:gap-2 text-base md:text-sm">
             <a
-              href="mailto:ilham28alfath@gmail.com"
+              href="mailto:hello@ujangdoubleday.id"
               className="text-blue-700 underline cursor-pointer"
             >
-              📧 ilham28alfath@gmail.com
+              📧 hello@ujangdoubleday.id
             </a>
             <a
               href="https://github.com/ujangdoubleday"
@@ -79,12 +79,12 @@ export default function ContactWindow({
         {/* status */}
         <div className="flex items-center gap-2 p-3 md:p-2 bg-yellow-100 border border-yellow-500 text-base md:text-sm">
           <span className="text-green-600 text-lg">●</span>
-          <span>Currently available for freelance & full-time opportunities</span>
+          <span>Open for freelance work on weekends (Saturday & Sunday)</span>
         </div>
 
         {/* buttons */}
         <div className="flex justify-end gap-2 mt-3">
-          <Button onClick={() => window.open('mailto:ilham28alfath@gmail.com')}>Send Mail</Button>
+          <Button onClick={() => window.open('mailto:hello@ujangdoubleday.id')}>Send Mail</Button>
           <Button onClick={onClose}>Close</Button>
         </div>
       </div>
