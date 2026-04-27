@@ -17,7 +17,7 @@ export default function BlogWindow({
   onFocus,
   isActive,
 }: BlogWindowProps) {
-  const blogUrl = 'http://blog.xpqx.xyz/';
+  const blogUrl = 'http://blog.ujangdoubleday.id/';
 
   const handleGoToBlog = () => {
     window.open(blogUrl, '_blank', 'noopener,noreferrer');
