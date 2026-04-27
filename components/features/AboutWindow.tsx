@@ -40,7 +40,7 @@ export default function AboutWindow({
               Full-stack Developer | Web3 & Blockchain
             </p>
             <p className="my-1 text-sm md:text-xs text-gray-500">
-              📍 South Jakarta, DKI Jakarta, Indonesia
+              📍 Central Jakarta, Indonesia
             </p>
           </div>
         </div>
@@ -61,7 +61,7 @@ export default function AboutWindow({
             <strong>GPA:</strong> 3.17 / 4.00
           </p>
           <p className="m-0">
-            <strong>Status:</strong> <span className="text-green-600">● Available for work</span>
+            <strong>Status:</strong> <span className="text-green-600">● Open for freelance work on weekends (Saturday & Sunday)</span>
           </p>
         </div>
 
