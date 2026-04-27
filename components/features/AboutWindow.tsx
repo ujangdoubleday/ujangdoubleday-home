@@ -37,7 +37,7 @@ export default function AboutWindow({
           <div className="flex-1">
             <h2 className="m-0 mb-2 text-lg md:text-base font-bold">Ilham Alfath</h2>
             <p className="my-1 text-gray-600 text-base md:text-sm">
-              Full-stack Developer | Web3 & Blockchain
+              Full-stack Developer | AI Engineer | Web3 & Blockchain
             </p>
             <p className="my-1 text-sm md:text-xs text-gray-500">
               📍 Central Jakarta, Indonesia
@@ -49,16 +49,10 @@ export default function AboutWindow({
 
         <div className="win98-inset bg-white p-3 mb-3 text-base md:text-sm">
           <p className="mb-2">
-            <strong>Role:</strong> Full-stack Developer
+            <strong>Role:</strong> Full-stack Developer & AI Engineer
           </p>
           <p className="mb-2">
             <strong>Specialty:</strong> Web3, Blockchain, Next.js, TypeScript, Solidity
-          </p>
-          <p className="mb-2">
-            <strong>Education:</strong> D4 Information Technology - Politeknik TEDC Bandung
-          </p>
-          <p className="mb-2">
-            <strong>GPA:</strong> 3.17 / 4.00
           </p>
           <p className="m-0">
             <strong>Status:</strong> <span className="text-green-600">● Open for freelance work on weekends (Saturday & Sunday)</span>
@@ -67,7 +61,7 @@ export default function AboutWindow({
 
         <div className="win98-inset bg-white p-3 text-sm md:text-xs">
           <p className="m-0 text-gray-600 leading-relaxed">
-            Full-stack Developer with a strong focus on Next.js and TypeScript to deliver
+            Full-stack Developer & AI Engineer with a strong focus on Next.js and TypeScript to deliver
             high-performance web solutions. Proven ability to build robust architectures for
             internal systems and Decentralized Applications (DApps). Experienced in integrating Web3
             ecosystems and optimizing code integrity for both traditional and blockchain-based
