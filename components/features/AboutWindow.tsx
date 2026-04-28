@@ -55,7 +55,7 @@ export default function AboutWindow({
             <strong>Specialty:</strong> Web3, Blockchain, Next.js, TypeScript, Solidity
           </p>
           <p className="m-0">
-            <strong>Status:</strong> <span className="text-green-600">● Open for freelance work on weekends (Saturday & Sunday)</span>
+            <strong>Status:</strong> <span className="text-green-600">● Currently working full-time</span>
           </p>
         </div>
 

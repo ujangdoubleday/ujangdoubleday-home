@@ -79,7 +79,7 @@ export default function ContactWindow({
         {/* status */}
         <div className="flex items-center gap-2 p-3 md:p-2 bg-yellow-100 border border-yellow-500 text-base md:text-sm">
           <span className="text-green-600 text-lg">●</span>
-          <span>Open for freelance work on weekends (Saturday & Sunday)</span>
+          <span>Currently working full-time</span>
         </div>
 
         {/* buttons */}
