@@ -23,9 +23,15 @@ export default function Taskbar({
   useEffect(() => {
     const updateTime = () => {
       const now = new Date();
-      setTime(
-        now.toLocaleTimeString('en-US', { hour: 'numeric', minute: '2-digit', hour12: true }),
-      );
+      const month = now.toLocaleDateString('en-US', { month: 'short' });
+      const day = now.getDate();
+      const time = now.toLocaleTimeString('en-US', {
+        hour12: false,
+        hour: '2-digit',
+        minute: '2-digit',
+        second: '2-digit',
+      });
+      setTime(`${month} ${day} ${time}`);
     };
     updateTime();
     const interval = setInterval(updateTime, 1000);
