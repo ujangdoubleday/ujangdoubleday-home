@@ -13,23 +13,24 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: 'Ilham Alfath | Web Developer',
+  title: 'Ilham Alfath | Full Stack Developer & AI Engineer',
   description:
-    'Portfolio of Ilham Alfath — Web developer passionate about crafting modern, elegant digital experiences with cutting-edge technologies.',
+    'Portfolio of Ilham Alfath — Full Stack Developer and AI Engineer passionate about crafting modern digital experiences and intelligent, data-driven solutions.',
   authors: [{ name: 'Ilham Alfath', url: 'https://ujangdoubleday.id' }],
   keywords: [
     'Ilham Alfath',
-    'web developer',
+    'full-stack developer',
+    'AI engineer',
+    'artificial intelligence',
+    'machine learning',
     'portfolio',
-    'frontend',
-    'full-stack',
     'Next.js',
     'React',
   ],
   openGraph: {
-    title: 'Ilham Alfath | Web Developer',
+    title: 'Ilham Alfath | Full Stack Developer & AI Engineer',
     description:
-      'Portfolio of Ilham Alfath — Web developer passionate about crafting modern, elegant digital experiences.',
+      'Portfolio of Ilham Alfath — Full Stack Developer and AI Engineer passionate about crafting modern digital experiences and intelligent, data-driven solutions.',
     url: 'https://ujangdoubleday.id',
     siteName: 'Ilham Alfath Portfolio',
     locale: 'en_US',
@@ -37,9 +38,9 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Ilham Alfath | Web Developer',
+    title: 'Ilham Alfath | Full Stack Developer & AI Engineer',
     description:
-      'Portfolio of Ilham Alfath — Web developer passionate about crafting modern, elegant digital experiences.',
+      'Portfolio of Ilham Alfath — Full Stack Developer and AI Engineer passionate about crafting modern digital experiences and intelligent, data-driven solutions.',
   },
 };
 
