@@ -13,10 +13,14 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
+  metadataBase: new URL('https://www.ujangdoubleday.id'),
+  alternates: {
+    canonical: '/',
+  },
   title: 'Ilham Alfath | Full Stack Developer & AI Engineer',
   description:
     'Portfolio of Ilham Alfath — Full Stack Developer and AI Engineer passionate about crafting modern digital experiences and intelligent, data-driven solutions.',
-  authors: [{ name: 'Ilham Alfath', url: 'https://ujangdoubleday.id' }],
+  authors: [{ name: 'Ilham Alfath', url: 'https://www.ujangdoubleday.id' }],
   keywords: [
     'Ilham Alfath',
     'full-stack developer',
@@ -31,7 +35,7 @@ export const metadata: Metadata = {
     title: 'Ilham Alfath | Full Stack Developer & AI Engineer',
     description:
       'Portfolio of Ilham Alfath — Full Stack Developer and AI Engineer passionate about crafting modern digital experiences and intelligent, data-driven solutions.',
-    url: 'https://ujangdoubleday.id',
+    url: 'https://www.ujangdoubleday.id',
     siteName: 'Ilham Alfath Portfolio',
     locale: 'en_US',
     type: 'website',
