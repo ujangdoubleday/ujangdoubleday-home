@@ -10,6 +10,14 @@ interface ProjectsWindowProps {
 
 const projects = [
   {
+    icon: '🔌',
+    name: 'sql-api',
+    type: 'REST API',
+    desc: 'Secure bridge for AI Agents to execute SQL queries against databases using Clean Architecture',
+    tech: 'Go, MySQL, PostgreSQL, SQL Server',
+    link: 'https://github.com/ujangdoubleday/sql-api',
+  },
+  {
     icon: '🤖',
     name: 'xoegit',
     type: 'CLI Tool',
