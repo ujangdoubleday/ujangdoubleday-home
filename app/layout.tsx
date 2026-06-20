@@ -19,7 +19,7 @@ export const metadata: Metadata = {
   },
   title: 'Ilham Alfath | Full Stack Developer & AI Engineer',
   description:
-    'Portfolio of Ilham Alfath — Full Stack Developer and AI Engineer passionate about crafting modern digital experiences and intelligent, data-driven solutions.',
+    'Portfolio of Ilham Alfath, a full-stack developer and AI engineer building web apps and AI-driven tools with Next.js, TypeScript, and Web3.',
   authors: [{ name: 'Ilham Alfath', url: 'https://www.ujangdoubleday.id' }],
   keywords: [
     'Ilham Alfath',
@@ -34,7 +34,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: 'Ilham Alfath | Full Stack Developer & AI Engineer',
     description:
-      'Portfolio of Ilham Alfath — Full Stack Developer and AI Engineer passionate about crafting modern digital experiences and intelligent, data-driven solutions.',
+      'Portfolio of Ilham Alfath, a full-stack developer and AI engineer building web apps and AI-driven tools with Next.js, TypeScript, and Web3.',
     url: 'https://www.ujangdoubleday.id',
     siteName: 'Ilham Alfath Portfolio',
     locale: 'en_US',
@@ -44,7 +44,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'Ilham Alfath | Full Stack Developer & AI Engineer',
     description:
-      'Portfolio of Ilham Alfath — Full Stack Developer and AI Engineer passionate about crafting modern digital experiences and intelligent, data-driven solutions.',
+      'Portfolio of Ilham Alfath, a full-stack developer and AI engineer building web apps and AI-driven tools with Next.js, TypeScript, and Web3.',
   },
 };
 
